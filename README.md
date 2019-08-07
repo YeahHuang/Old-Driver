@@ -1,5 +1,7 @@
 # Old-Driver
 For 2018 Google Girl Hackathon IV in Shanghai
+It's forked from Prudence's github. She was our team leader. 
+In this competition, I was mainly in charge of backend programming and data analysis(Python)
 
 [Start Playing Here]https://prudenceyyx.github.io/Old-Driver/index.html
 
@@ -61,7 +63,7 @@ Zhang, Peiying
 # Awards
 Best Innovation Award
 
-People's Choice Award
+People's Choice Award(1/8)
 
 
 

@@ -53,7 +53,7 @@ Given a dataset of the taxi tranffic in the New York City in 2016, it comes natu
 # Developers
 Jin, Yuhang
 
-Huang, Xiao
+Huang, Xiao(YeahHuang)
 
 Wu, Yuanyuan
 
